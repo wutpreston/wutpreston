@@ -8,13 +8,19 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=9ekt.9ekt&"  />
 </div>
 
+
 ###
 
 <h1 align="center">Hey There 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+
+I make random programs using CT, Python, Lau and C#
+
+For personal enquiries shoot me a message on discord! (iox#8593)
+
+<h1 align="left">👩‍💻  About Me</h1>
 
 ###
 
