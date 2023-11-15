@@ -16,15 +16,14 @@
 ###
 
 
-I make random programs using CT, Python, Lau and C#
+I make programs using Python, Lua, C++ and C#
 
-For personal enquiries shoot me a message on discord! (iox#8593)
 
 <h1 align="left">👩‍💻  About Me</h1>
 
 ###
 
-<p align="left">Hey, I'm Preston. 👋<br><br>📚 | I'm currently learning Digital Communications<br>⚡ | In my free time I create funny programs and allows me to improve my skills.</p>
+<p align="left">Hey, I'm Preston. 👋<br><br>📚 | I'm currently in college studying computing<br>⚡ | In my free time I create funny programs and allows me to improve my skills.</p>
 
 ###
 
